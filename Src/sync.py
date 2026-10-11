@@ -1,23 +1,23 @@
-# sync the data with .txt and .json via script
+# sync the data with .txt and .json from .srt format via script
 """
-resync.py — reformat an edited SRT and regenerate .txt/.vtt/.json in sync.
+sync.py — reformat an edited SRT and regenerate .txt/.vtt/.json in sync.
 
 Flow:
   1. transcribe.py  -> ../output/foo.srt, foo.txt, foo.json
   2. You intensively listen and edit foo.srt (fix words / timing).
-  3. resync.py takes the edited foo.srt as the single source of truth,
+  3. sync.py takes the edited foo.srt as the single source of truth,
      re-wraps and re-times it with tunable parameters, and writes a
      consistent set of .srt / .vtt / .txt / .json back out.
 
 Examples:
   # Chinese subtitles, 20 chars per line, max 2 lines, merge tiny gaps
-  python resync.py --input output/2018年研究生开学典礼.srt \
+  python sync.py --input output/2018年研究生开学典礼.srt \
                    --output output --language zh \
                    --max-chars-per-line 20 --max-lines 2 \
                    --max-duration 8 --min-duration 0.8 --merge-gap 0.4
 
   # English subtitles, 42 chars per line
-  python resync.py --input output/speech.srt --output output \
+  python sync.py --input output/speech.srt --output output \
                    --language en --max-chars-per-line 42 --max-lines 2
 """
 

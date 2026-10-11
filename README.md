@@ -9,7 +9,7 @@ Download video or audio file from Bili station, then transcribe them with whispe
 To-do List:
 - [x] **Generate rough transcribe files.**
 - [ ] **Extensive listening for every speeches.**
-    - [ ] *[Undergraduate] The 111^th^ (2020) Commencement Ceremony of XJTU*
+    - [X] *[Graduate] The 114^th^ (2023) Commencement Ceremony of XJTU*
 
 Project Log: 
 - [message] The beginning of project.
