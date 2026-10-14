@@ -11,9 +11,13 @@ To-do List:
 - [ ] **Extensive listening for every speeches.**
     - [x] *[Graduate] The 114^th^ (2023) Commencement Ceremony of XJTU*
     - [x] *[Undergraduate]The 114^th^ (2023) Commencement Ceremony of XJTU*
-    - [X] *[Undergraduate]The 113^th^(2022) Commencement Ceremony of XJTU*
-    - [X] *[Undergraduate]The 112^th^ (2021) Commencement Ceremony of XJTU*
-    - [X] *[Undergraduate]The 111^th^ (2020) Commencement Ceremony of XJTU*
+    - [x] *[Undergraduate]The 113^th^(2022) Commencement Ceremony of XJTU*
+    - [x] *[Undergraduate]The 112^th^ (2021) Commencement Ceremony of XJTU*
+    - [x] *[Undergraduate]The 111^th^ (2020) Commencement Ceremony of XJTU*
+    - [x] *[Graduate]The 109^th^ (2018) Opening Ceremony of XJTU*
+    - [ ] *[Graduate]The 112^th^ (2021) Opening Ceremony of XJTU*
+    - [ ] *[UnGraduate]The 112^th^ (2021) Opening Ceremony of XJTU*
+    - [ ] *[UnGraduate]The 111^th^ (2020) Opening Ceremony of XJTU*
 - [ ] **Generate fully text rather sentences only with script.**
 - [ ] **Analyze the character along with every speech.**
 
@@ -21,4 +25,5 @@ Project Log:
 - 2026-10-10 [message] The beginning of project.
 - 2026-10-11 [addition] 2023 - graduate.
 - 2026-10-12 [addition] 2023 - Undergraduate.
-- 2026-10-13 [ADDITION] 2022/2021/2020 - Undergraduate.
+- 2026-10-13 [addition] 2022/2021/2020 - Undergraduate.
+- 2026-10-14 [addition]
