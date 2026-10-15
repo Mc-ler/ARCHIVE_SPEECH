@@ -16,9 +16,9 @@ To-do List:
     - [x] *[Undergraduate]The 111^th^ (2020) Commencement Ceremony of XJTU*
     - [x] *[Graduate]The 109^th^ (2018) Opening Ceremony of XJTU*
     - [ ] *[Graduate]The 112^th^ (2021) Opening Ceremony of XJTU*
-    - [ ] *[UnGraduate]The 112^th^ (2021) Opening Ceremony of XJTU*
-    - [ ] *[UnGraduate]The 111^th^ (2020) Opening Ceremony of XJTU*
-- [ ] **Generate fully text rather sentences only with script.**
+    - [x] *[UnGraduate]The 112^th^ (2021) Opening Ceremony of XJTU*
+    - [x] *[UnGraduate]The 111^th^ (2020) Opening Ceremony of XJTU*
+- [ ] **Generate fully text rather sentences only with script Or Searching the News website of school**
 - [ ] **Analyze the character along with every speech.**
 
 Project Log: 
