@@ -26,4 +26,5 @@ Project Log:
 - 2026-10-11 [addition] 2023 - graduate.
 - 2026-10-12 [addition] 2023 - Undergraduate.
 - 2026-10-13 [addition] 2022/2021/2020 - Undergraduate.
-- 2026-10-14 [addition]
+- 2026-10-14 [addition] 2018 Graduate - Opening Ceremony.
+- 2026-10-15 [addition] 20200/2021 Undergraduate - Opening Ceremony
