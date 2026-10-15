@@ -8,17 +8,18 @@ Download video or audio file from Bili station, then transcribe them with whispe
 
 To-do List:
 - [x] **Generate rough transcribe files.**
-- [ ] **Extensive listening for every speeches.**
+- [x] **Extensive listening for every speeches.**
+    - [x] *[Graduate]The 109^th^ (2018) Opening Ceremony of XJTU*
+    - [x] *[Graduate]The 112^th^ (2021) Opening Ceremony of XJTU*
     - [x] *[Graduate] The 114^th^ (2023) Commencement Ceremony of XJTU*
     - [x] *[Undergraduate]The 114^th^ (2023) Commencement Ceremony of XJTU*
     - [x] *[Undergraduate]The 113^th^(2022) Commencement Ceremony of XJTU*
     - [x] *[Undergraduate]The 112^th^ (2021) Commencement Ceremony of XJTU*
     - [x] *[Undergraduate]The 111^th^ (2020) Commencement Ceremony of XJTU*
-    - [x] *[Graduate]The 109^th^ (2018) Opening Ceremony of XJTU*
-    - [ ] *[Graduate]The 112^th^ (2021) Opening Ceremony of XJTU*
-    - [x] *[UnGraduate]The 112^th^ (2021) Opening Ceremony of XJTU*
-    - [x] *[UnGraduate]The 111^th^ (2020) Opening Ceremony of XJTU*
-- [ ] **Generate fully text rather sentences only with script Or Searching the News website of school**
+    - [x] *[UnderGraduate]The 112^th^ (2021) Opening Ceremony of XJTU*
+    - [x] *[UnderGraduate]The 111^th^ (2020) Opening Ceremony of XJTU*
+- [x] **Searching the News website of school**
+- [ ] **Generate fully text rather sentences only with script**
 - [ ] **Analyze the character along with every speech.**
 
 Project Log: 
@@ -27,4 +28,4 @@ Project Log:
 - 2026-10-12 [addition] 2023 - Undergraduate.
 - 2026-10-13 [addition] 2022/2021/2020 - Undergraduate.
 - 2026-10-14 [addition] 2018 Graduate - Opening Ceremony.
-- 2026-10-15 [addition] 20200/2021 Undergraduate - Opening Ceremony
+- 2026-10-15 [addition] 2020/2021 Undergraduate - Opening Ceremony | 2020 Graduate Opening Ceremony | Finding the materials from News website.
